@@ -7,7 +7,12 @@ Welcome to my Data Analytics Portfolio. My name is Mohamed Nafrees and i am exci
 This repository contains my data analytics portfolio projects completed using Python programming language, SQL, and Tableau.
 
 ## Python Projects
-### Analyzing the Data Collected by the HR Department and Building a Random Forest Model that Predicts Whether or not an Employee will Leave the Company.
-**Code Notebook Link:**
+### Providing Data Driven Suggestions for HR Department
+**Code Link:**
 
-**Description:** 
+**Description:** In this project, i analyzed the data collected by the HR department and built a Random Forest model that predicts whether or not an employee will leave the company.
+
+**Skills:** Data Exploration, Data Cleaning, Outlier Detection, Data Analysis and Visualization, and Random Forest Model Building.
+
+**Python Libraries:** Pandas, Numpy, Missingno, Matplotlib, Seaborn and Sklearn
+
