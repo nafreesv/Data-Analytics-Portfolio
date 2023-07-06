@@ -11,7 +11,7 @@ This repository contains my data analytics portfolio projects completed using Py
 
 ## Python Projects
 ### Providing Data Driven Suggestions for HR Department
-**Code Link:**
+**Code Link:** https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/HR_data_analysis.ipynb
 
 **Description:** In this project, i analyzed the data collected by the HR department and built a Random Forest model that predicts whether or not an employee will leave the company.
 
