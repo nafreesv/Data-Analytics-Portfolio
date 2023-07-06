@@ -12,6 +12,7 @@ This repository contains my data analytics portfolio projects completed using Py
 ## Python Projects
 ### Providing Data Driven Suggestions for HR Department
 **Code Link:** https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/HR_data_analysis.ipynb
+
 ![emo](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/260fe906-4364-4a4c-ae4d-c66509c97df8)
 
 
@@ -21,8 +22,11 @@ This repository contains my data analytics portfolio projects completed using Py
 
 **Python Libraries:** Pandas, Numpy, Missingno, Matplotlib, Seaborn and Sklearn
 
+
+
 ### Exploratory Data Analysis on Superstore
 **Code Link:** https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/superstore_analysis.ipynb
+
 
 ![sm](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/bcc39db2-c4bf-4032-a23d-925eaaaeb27f)
 
