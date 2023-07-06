@@ -21,3 +21,8 @@ This repository contains my data analytics portfolio projects completed using Py
 
 **Python Libraries:** Pandas, Numpy, Missingno, Matplotlib, Seaborn and Sklearn
 
+### Exploratory Data Analysis on Superstore
+**Code Link:** 
+
+![sm](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/bcc39db2-c4bf-4032-a23d-925eaaaeb27f)
+
