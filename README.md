@@ -16,7 +16,7 @@ This repository contains my data analytics portfolio projects completed using Py
 ![emo](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/260fe906-4364-4a4c-ae4d-c66509c97df8)
 
 
-**Description:** In this project, i analyzed the data collected by the HR department and built a Random Forest model that predicts whether or not an employee will leave the company.
+**Description:** In this project, I analyzed and visualized the data collected by the HR department and built a Random Forest model that will predict the likelihood of an employee leaving the organization.
 
 **Skills:** Data Exploration, Data Cleaning, Outlier Detection, Data Analysis and Visualization, and Random Forest Model Building.
 
@@ -29,4 +29,12 @@ This repository contains my data analytics portfolio projects completed using Py
 
 
 ![sm](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/bcc39db2-c4bf-4032-a23d-925eaaaeb27f)
+
+
+**Description:** For this project, I cleaned and performed exploratory data analysis on a sales data set in order to find insights in the data that will enable the stakeholders to make effective business decisions and maximize profit.
+
+**Skills:** Data Exploration, Data Cleaning, Exploratory Data Analysis and Visualization.
+
+**Python Libraries:** Pandas, Matplotlib, Seaborn
+
 
