@@ -5,7 +5,7 @@
 ## Introduction
 Hello!
 
-Welcome to my Data Analytics Portfolio! I'm Mohamed Nafrees, and I'm thrilled to have you here. Within this repository, you'll discover a collection of my data analytics projects, all crafted using the powerful Python programming language.
+Welcome to my Data Analytics Portfolio! I'm Mohamed Nafrees, and I'm thrilled to have you here. Within this repository, you'll discover a collection of my data analytics projects completed using the powerful Python programming language and SQL.
 
 ## Python Projects
 ### Providing Data Driven Suggestions for HR Department
