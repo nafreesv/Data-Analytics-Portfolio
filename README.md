@@ -16,6 +16,8 @@ Welcome to my Data Analytics Portfolio! I'm Mohamed Nafrees, and I'm thrilled to
 
 **Description:** In this project, I delved into the depths of HR data, harnessing its insights to construct a predictive model with Random Forest algorithm. By meticulously analyzing and visualizing the collected data, I crafted a robust tool capable of forecasting the likelihood of employee attrition within the organization.
 
+**Data Source:** Google Advanced Data Analytics Capstone Project
+
 **Skills:** Data Exploration, Data Cleaning, Outlier Detection, Data Analysis and Visualization, and Random Forest Model Building.
 
 **Python Libraries:** Pandas, Numpy, Missingno, Matplotlib, Seaborn and Sklearn
@@ -34,6 +36,8 @@ Welcome to my Data Analytics Portfolio! I'm Mohamed Nafrees, and I'm thrilled to
 
 **Description:** In this project, I delved into a sales dataset, meticulously cleansing and conducting exploratory data analysis to unearth invaluable insights. By extracting actionable intelligence from complex data, stakeholders are empowered to make informed decisions, thereby optimizing business strategies and maximizing profits.
 
+**Data Source:** Kaggle
+
 **Skills:** Data Exploration, Data Cleaning, Exploratory Data Analysis and Visualization.
 
 **Python Libraries:** Pandas, Matplotlib, Seaborn
@@ -44,9 +48,10 @@ Welcome to my Data Analytics Portfolio! I'm Mohamed Nafrees, and I'm thrilled to
 ![wallpaperflare-cropped (3)](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/d8aa2a9f-7b34-4a42-a5c6-e03973a292b3)
 
 
-**Description:** In this project, I performed exploratory data analysis for an online clothing retailer using SQL. By delving into product, customer, and geographical dimensions, I uncovered valuable insights and trends crucial for enhancing business strategies and optimizing customer satisfaction.
+**Description:** In this project, I performed exploratory data analysis for an online clothing retailer using SQL. By delving into product, customer, and geographical dimensions, I uncovered valuable insights and trends in the data set crucial for enhancing business strategies and optimizing customer satisfaction.
 
 
+**Data Source:** Kaggle
 
 **Skills:** PostgreSQL, Exploratory Data Analysis, SQL
 
