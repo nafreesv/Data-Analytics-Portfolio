@@ -39,3 +39,11 @@ Welcome to my Data Analytics Portfolio! I'm Mohamed Nafrees, and I'm thrilled to
 **Python Libraries:** Pandas, Matplotlib, Seaborn
 
 
+## SQL Project
+
+![wallpaperflare-cropped (3)](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/d8aa2a9f-7b34-4a42-a5c6-e03973a292b3)
+
+
+
+
+
