@@ -18,7 +18,7 @@ Welcome to my Data Analytics Portfolio! I'm Mohamed Nafrees, and I'm thrilled to
 
 **Data Source:** Google Advanced Data Analytics Capstone Project
 
-**Skills:** Data Exploration, Data Cleaning, Outlier Detection, Data Analysis and Visualization, and Random Forest Model Building.
+**Skills:** Data Cleaning, Exploratory Data Analysis, Outlier Detection, Data Analysis, Descriptive Statistics, Statistical Data Analysis, Correlation Analysis, Data Visualization, and Random Forest Model Building.
 
 **Python Libraries:** Pandas, Numpy, Missingno, Matplotlib, Seaborn and Sklearn
 
@@ -27,18 +27,24 @@ Welcome to my Data Analytics Portfolio! I'm Mohamed Nafrees, and I'm thrilled to
 
 
 
-### Exploratory Data Analysis on Superstore
+### Data Analysis on Superstore
 **Project Link:** https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/superstore_analysis.ipynb
 
 
 ![sm](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/bcc39db2-c4bf-4032-a23d-925eaaaeb27f)
 
 
-**Description:** In this project, I delved into a sales dataset, meticulously cleansing and conducting exploratory data analysis to unearth invaluable insights. By extracting actionable intelligence from complex data, stakeholders are empowered to make informed decisions, thereby optimizing business strategies and maximizing profits.
+**Description:** Throughout this project, I cleaned, transformed, and analyzed the data across various dimensions including market segments, product categories, sub-categories, customer profiles, and geographical regions. Through this analysis, I unearthed invaluable insights and identified pivotal trends that are essential for fortifying business strategies and maximizing customer satisfaction to its utmost potential.
+
+
+
+
+
+
 
 **Data Source:** Kaggle
 
-**Skills:** Data Exploration, Data Cleaning, Exploratory Data Analysis and Visualization.
+**Skills:** Data Cleaning, Exploratory Data Analysis, Data Visualization, Descriptive Statistics.
 
 **Python Libraries:** Pandas, Matplotlib, Seaborn
 
@@ -47,12 +53,12 @@ Welcome to my Data Analytics Portfolio! I'm Mohamed Nafrees, and I'm thrilled to
 
 ### Exploratory Data Analysis for an Online Clothing Retailer
 
-**Project Link: **https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Online_Clothing_Retailer_SQL.ipynb
+**Project Link:**https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Online_Clothing_Retailer_SQL.ipynb
 
 ![wallpaperflare-cropped (3)](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/d8aa2a9f-7b34-4a42-a5c6-e03973a292b3)
 
 
-**Description:** In this project, I performed exploratory data analysis for an online clothing retailer using SQL. By delving into product, customer, and geographical dimensions, I uncovered valuable insights and trends in the data set crucial for enhancing business strategies and optimizing customer satisfaction.
+**Description:** In this project, I utilized SQL to perform data analysis to enhance sales performance within the online clothing retail industry, identifying trends, customer preferences, and optimization opportunities.
 
 
 **Data Source:** Kaggle
