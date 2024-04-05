@@ -16,15 +16,11 @@
 **Description** 
 <p align="justify">In this project, I delved into the depths of HR data, harnessing its insights to construct a predictive model with Random Forest algorithm. By meticulously analyzing and visualizing the collected data, I crafted a robust tool capable of forecasting the likelihood of employee attrition within the organization. </p>
 
-**Data Source** 
-Google Advanced Data Analytics Capstone Project
-
 **Skills** 
 <p align="justify">Data Cleaning, Exploratory Data Analysis, Outlier Detection, Data Analysis, Descriptive Statistics, Correlation Analysis, Data Visualization, and Random Forest Model Building.</p>
 
-
-
-
+**Data Source**
+Google Advanced Data Analytics Capstone Project
 
 
 
