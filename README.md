@@ -5,7 +5,7 @@
 ## About Me
 <p align="justify"> I am a passionate Data Analyst with a background in data analytics and accounting. Proficient in Python, SQL, Power BI, and Excel, with advanced skills in statistical data analysis. Leveraging hands-on experience gained through building data analytics portfolio projects and completing Google's intensive Career Certificate program in advanced data analytics. Enthusiastic about uncovering patterns and insights in complex datasets to drive data-driven decisions. </p>
 
-<a href="https://www.linkedin.com/in/nafrees/"><b>My Linkedin Profile</b></a>
+**[My Linkedin Profile]**(https://www.linkedin.com/in/nafrees/)
 
 ## Python Projects
 ### [Providing Data Driven Suggestions for HR Department](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/HR_data_analysis.ipynb)
