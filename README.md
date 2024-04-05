@@ -8,8 +8,7 @@
 <a href="https://www.linkedin.com/in/nafrees/"><b>My Linkedin Profile</b></a>
 
 ## Python Projects
-### Providing Data Driven Suggestions for HR Department
-**Project Link:** https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/HR_data_analysis.ipynb
+### [Providing Data Driven Suggestions for HR Department](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/HR_data_analysis.ipynb)
 
 ![emo](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/260fe906-4364-4a4c-ae4d-c66509c97df8)
 
