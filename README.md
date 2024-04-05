@@ -2,10 +2,10 @@
 
 ![Cover Image](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/3cf734ea-dcef-4a5e-8858-899fc97d4f4d)
 
-<h2 align="left"> About Me </h2>
+## About Me
 <p align="justify"> I am a passionate Data Analyst with a background in data analytics and accounting. Proficient in Python, SQL, Power BI, and Excel, with advanced skills in statistical data analysis. Leveraging hands-on experience gained through building data analytics portfolio projects and completing Google's intensive Career Certificate program in advanced data analytics. Enthusiastic about uncovering patterns and insights in complex datasets to drive data-driven decisions. </p>
 
-###### [My Linkedin Profile](https://www.linkedin.com/in/nafrees/)
+<a href="https://www.linkedin.com/in/nafrees/"><b>My Linkedin Profile</b></a>
 
 ## Python Projects
 ### Providing Data Driven Suggestions for HR Department
