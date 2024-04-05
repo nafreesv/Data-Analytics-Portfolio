@@ -13,13 +13,16 @@
 [![emo](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/260fe906-4364-4a4c-ae4d-c66509c97df8)](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/HR_data_analysis.ipynb)
 
 
-**Description:** <p align="justify">In this project, I delved into the depths of HR data, harnessing its insights to construct a predictive model with Random Forest algorithm. By meticulously analyzing and visualizing the collected data, I crafted a robust tool capable of forecasting the likelihood of employee attrition within the organization. </p>
+**Description** 
+<p align="justify">In this project, I delved into the depths of HR data, harnessing its insights to construct a predictive model with Random Forest algorithm. By meticulously analyzing and visualizing the collected data, I crafted a robust tool capable of forecasting the likelihood of employee attrition within the organization. </p>
 
-**Data Source:** Google Advanced Data Analytics Capstone Project
+**Data Source** 
+Google Advanced Data Analytics Capstone Project
 
-**Skills:** Data Cleaning, Exploratory Data Analysis, Outlier Detection, Data Analysis, Descriptive Statistics, Correlation Analysis, Data Visualization, and Random Forest Model Building.
+**Skills** 
+<p align="justify">Data Cleaning, Exploratory Data Analysis, Outlier Detection, Data Analysis, Descriptive Statistics, Correlation Analysis, Data Visualization, and Random Forest Model Building.</p>
 
-**Python Libraries:** Pandas, Numpy, Missingno, Matplotlib, Seaborn and Sklearn
+
 
 
 
