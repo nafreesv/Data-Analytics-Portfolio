@@ -62,6 +62,7 @@
 - [IBM/Python for Data Science, AI & Development](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)
 - [Google/The Power of Statistics](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/The%20Power%20of%20Statistics.pdf)
 - [Microsoft/Extract, Transform, and Load Data in Power BI](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Microsoft_ETL.pdf)
+- [Rice University/Business Applications of Hypothesis Testing and Confidence Interval Estimation](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Business%20Applications%20of%20Hypothesis%20Testing.pdf)
 
 
 
