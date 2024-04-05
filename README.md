@@ -19,51 +19,41 @@
 **Skills** 
 <p align="justify">Data Cleaning, Exploratory Data Analysis, Outlier Detection, Data Analysis, Descriptive Statistics, Correlation Analysis, Data Visualization, and Random Forest Model Building.</p>
 
-**Data Source**
-Google Advanced Data Analytics Capstone Project
+**Data Source:** Google Advanced Data Analytics Capstone Project
 
 
 
 
-### Data Analysis on Superstore
-**Project Link:** https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/superstore_analysis.ipynb
+### [Data Analysis on Superstore](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/superstore_analysis.ipynb)
+
+[![sm](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/bcc39db2-c4bf-4032-a23d-925eaaaeb27f)](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/superstore_analysis.ipynb)
 
 
-![sm](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/bcc39db2-c4bf-4032-a23d-925eaaaeb27f)
+**Description** 
+<p align="justify">Throughout this project, I cleaned, transformed, and analyzed the data across various dimensions including market segments, product categories, sub-categories, customer profiles, and geographical regions. Through this analysis, I unearthed invaluable insights and identified pivotal trends that are essential for fortifying business strategies and maximizing customer satisfaction to its utmost potential.</p>
 
-
-**Description:** Throughout this project, I cleaned, transformed, and analyzed the data across various dimensions including market segments, product categories, sub-categories, customer profiles, and geographical regions. Through this analysis, I unearthed invaluable insights and identified pivotal trends that are essential for fortifying business strategies and maximizing customer satisfaction to its utmost potential.
-
-
-
-
-
-
+**Skills** 
+<p align="justify">Data Cleaning, Exploratory Data Analysis, Data Visualization, Descriptive Statistics.</p>
 
 **Data Source:** Kaggle
 
-**Skills:** Data Cleaning, Exploratory Data Analysis, Data Visualization, Descriptive Statistics.
 
-**Python Libraries:** Pandas, Matplotlib, Seaborn
 
 
 ## SQL Project
 
-### Exploratory Data Analysis for an Online Clothing Retailer
+### [Exploratory Data Analysis for an Online Clothing Retailer](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Online_Clothing_Retailer_SQL.ipynb)
 
-**Project Link:** https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Online_Clothing_Retailer_SQL.ipynb
-
-![wallpaperflare-cropped (3)](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/d8aa2a9f-7b34-4a42-a5c6-e03973a292b3)
+[![wallpaperflare-cropped (3)](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/d8aa2a9f-7b34-4a42-a5c6-e03973a292b3)](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Online_Clothing_Retailer_SQL.ipynb)
 
 
-**Description:** In this project, I utilized SQL to perform data analysis to enhance sales performance within the online clothing retail industry, identifying trends, customer preferences, and optimization opportunities.
+**Description** 
+<p align="justify">In this project, I utilized SQL to perform data analysis to enhance sales performance within the online clothing retail industry, identifying trends, customer preferences, and optimization opportunities.</p>
 
+**Skills** 
+<p align="justify">PostgreSQL, Exploratory Data Analysis, SQL</p>
 
 **Data Source:** Kaggle
-
-**Skills:** PostgreSQL, Exploratory Data Analysis, SQL
-
-
 
 
 
