@@ -3,7 +3,9 @@
 ![Cover Image](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/3cf734ea-dcef-4a5e-8858-899fc97d4f4d)
 
 <h2 align="left">About Me</h2>
-<p align="justify"> I am a passionate Data Analyst with a background in data analytics and accounting. Proficient in Python, SQL, Power BI, and Excel, with advanced skills in statistical data analysis. Leveraging hands-on experience gained through building data analytics portfolio projects and completing Google's intensive Career Certificate program in advanced data analytics. Enthusiastic about uncovering patterns and insights in complex datasets to drive data-driven decisions. </p>
+<p align="justify"> I am a finance professional turned data analyst with a passion for transforming raw data into meaningful insights that drive business success. Skilled in Excel, Power Query, Power BI, SQL, Python, and statistics, I specialize in data analysis, automation, and interactive dashboarding to enhance efficiency, financial visibility, and decision-making. With experience in FMCG, real estate, and trading data, I provide insights that optimize business strategies and performance.
+
+Currently pursuing a Postgraduate Diploma in Data Science, I am expanding my expertise in machine learning and automation to stay ahead in data analytics. I am committed to leveraging data for business impact and thrive in environments where analytics drive strategic decisions. </p>
 
 **[My Linkedin Profile](https://www.linkedin.com/in/nafrees/)**
 
@@ -58,7 +60,6 @@
 
 ## Data Analytics Certifications
 - [Google Advanced Data Analytics Professional Certificate](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Google%20Advanced%20Data%20Analytics.pdf)
-- [Tableau Business Intelligence Analyst Professional Certificate](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Tableau%20Business%20Intelligence%20Analyst.jpg)
 - [Google Data Analytics Professional Certificate](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Google%20Data%20Analytics%20Professional%20Certificate.pdf)
 - [IBM/Python for Data Science, AI & Development](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)
 - [Google/The Power of Statistics](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/The%20Power%20of%20Statistics.pdf)
