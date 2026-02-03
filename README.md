@@ -2,54 +2,18 @@
 <h2 align="left">About Me</h2>
 <p align="justify"> I am a finance professional turned data analyst with a passion for transforming raw data into meaningful insights that drive business success. Skilled in Excel, Power Query, Power BI, SQL, Python, and statistics, I specialize in data analysis, automation, and interactive dashboarding to enhance efficiency, financial visibility, and decision-making. With experience in FMCG, real estate, and trading data, I provide insights that optimize business strategies and performance.
 
-Currently pursuing a Postgraduate Diploma in Data Science, I am expanding my expertise in machine learning and automation to stay ahead in data analytics. I am committed to leveraging data for business impact and thrive in environments where analytics drive strategic decisions. </p>
+
 
 **[My Linkedin Profile](https://www.linkedin.com/in/nafrees/)**
 
-## Python Projects
-### [Providing Data Driven Suggestions for HR Department](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/HR_data_analysis.ipynb)
-
-[![emo](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/260fe906-4364-4a4c-ae4d-c66509c97df8)](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/HR_data_analysis.ipynb)
-
-
-**Description** 
-<p align="justify">In this project, I delved into the depths of HR data, harnessing its insights to construct a predictive model with Random Forest algorithm. By meticulously analyzing and visualizing the collected data, I crafted a robust tool capable of forecasting the likelihood of employee attrition within the organization. </p>
-
-**Skills** 
-<p align="justify">Data Cleaning, Exploratory Data Analysis, Outlier Detection, Data Analysis, Descriptive Statistics, Correlation Analysis, Data Visualization, and Random Forest Model Building.</p>
-
-**Data Source:** Google Advanced Data Analytics Capstone Project
+## SQL Projects
 
 
 
 
-### [Data Analysis on Superstore](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/superstore_analysis.ipynb)
-
-[![sm](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/bcc39db2-c4bf-4032-a23d-925eaaaeb27f)](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/superstore_analysis.ipynb)
-
-
-**Description** 
-<p align="justify">Throughout this project, I cleaned, transformed, and analyzed the data across various dimensions including market segments, product categories, sub-categories, customer profiles, and geographical regions. Through this analysis, I unearthed invaluable insights and identified pivotal trends that are essential for fortifying business strategies and maximizing customer satisfaction to its utmost potential.</p>
-
-**Skills** 
-<p align="justify">Data Cleaning, Exploratory Data Analysis, Data Visualization, Descriptive Statistics.</p>
-
-**Data Source:** Kaggle
 
 
 
 
-## SQL Project
-
-### [Exploratory Data Analysis for an Online Clothing Retailer](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Online_Clothing_Retailer_SQL.ipynb)
-
-[![wallpaperflare-cropped (3)](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/d8aa2a9f-7b34-4a42-a5c6-e03973a292b3)](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Online_Clothing_Retailer_SQL.ipynb)
 
 
-**Description** 
-<p align="justify">In this project, I utilized SQL to perform data analysis to enhance sales performance within the online clothing retail industry, identifying trends, customer preferences, and optimization opportunities.</p>
-
-**Skills** 
-<p align="justify">PostgreSQL, Exploratory Data Analysis, SQL</p>
-
-**Data Source:** Kaggle
