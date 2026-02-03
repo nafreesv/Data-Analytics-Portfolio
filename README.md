@@ -1,5 +1,4 @@
 
-
 ![Cover Image](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/3cf734ea-dcef-4a5e-8858-899fc97d4f4d)
 
 <h2 align="left">About Me</h2>
