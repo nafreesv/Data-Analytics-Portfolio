@@ -56,8 +56,3 @@ Currently pursuing a Postgraduate Diploma in Data Science, I am expanding my exp
 <p align="justify">PostgreSQL, Exploratory Data Analysis, SQL</p>
 
 **Data Source:** Kaggle
-
-
-
-
-
