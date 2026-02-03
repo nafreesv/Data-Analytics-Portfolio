@@ -1,4 +1,6 @@
+# Hello! I am Mohamed Nafrees. Welcome to My Data Analytics Projects.
 
+## Portfolio Projects
 
 ![Cover Image](https://github.com/nafreesv/Data-Analytics-Portfolio/assets/125745088/3cf734ea-dcef-4a5e-8858-899fc97d4f4d)
 
