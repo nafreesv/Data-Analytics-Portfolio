@@ -12,7 +12,7 @@
 
 ## SQL Projects
 
-[![Car Sales Analysis](assets/car.jpg)](car.ipynb)
+[!(assets/car.jpg)](car.ipynb)
 
 
 
