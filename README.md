@@ -1,4 +1,4 @@
-![Cover Image](assets/images/Github_cover.png)
+![Cover Image](assets/Github_cover.png)
 
 <h2 align="left"><strong>About Me</strong></h2>
 <p align="justify" style="font-size: 1.1em;">
