@@ -12,21 +12,7 @@
 
 ## SQL Projects
 
-<p align="center">
-  <a href="https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/car.ipynb">
-    <img src="assets/car.jpg" alt="car" class="hover-img" width="400"/>
-  </a>
-</p>
-
-<style>
-.hover-img {
-  transition: transform 0.3s ease;
-  cursor: pointer;
-}
-.hover-img:hover {
-  transform: scale(1.05); /* grows slightly on hover */
-}
-</style>
+[![car](assets/car.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/car.ipynb)
 
 
 
