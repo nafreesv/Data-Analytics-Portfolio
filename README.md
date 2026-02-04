@@ -12,7 +12,7 @@
 
 ## SQL Projects
 
-[![car](assets/car.jpg)](car.ipynb)
+[![car](assets/car.jpg)](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/car.ipynb)
 
 
 
