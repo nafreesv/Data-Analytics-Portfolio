@@ -12,7 +12,7 @@
 
 ## SQL Projects
 
-[!(assets/car.jpg)](car.ipynb)
+[![](assets/car.jpg)](car.ipynb)
 
 
 
