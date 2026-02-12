@@ -11,14 +11,14 @@
 
 
 ## SQL Projects
-### [Car Sales Data Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
+### [Car Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
 
 [![car](assets/car.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
 
 
-### [Electronic Store Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/electronic_store.ipynb)
+### [Electronic Store Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/ele.ipynb)
 
-[![Electronic_Project_cover](assets/Electronic_Project_cover.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/electronic_store.ipynb)
+[![elec](assets/elec.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/ele.ipynb)
 
 
 
