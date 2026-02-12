@@ -16,8 +16,9 @@
 [![car](assets/car.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
 
 
-## [Electronic Store Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
+### [Electronic Store Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/electronic_store.ipynb)
 
+[![store](assets/Electronic_project_cover.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/electronic_store.ipynb)
 
 
 
