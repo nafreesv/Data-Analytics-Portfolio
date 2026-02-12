@@ -11,8 +11,9 @@
 
 
 ## SQL Projects
+### [Car Sales Data Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
 
-[![car](assets/car.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/car.ipynb)
+[![car](assets/car.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
 
 
 
