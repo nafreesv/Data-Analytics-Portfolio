@@ -18,7 +18,7 @@
 
 ### [Electronic Store Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/electronic_store.ipynb)
 
-[![store](assets/Electronic_Project_cover.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/electronic_store.ipynb)
+[![Electronic_Project_cover](assets/Electronic_Project_cover.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/electronic_store.ipynb)
 
 
 
