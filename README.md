@@ -13,12 +13,12 @@
 ## SQL Projects
 ### [Car Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
 
-[![car](assets/car.jpg)](https://raw.githubusercontent.com/nafreesv/Data-Analytics-Portfolio/main/car_sales.ipynb)
+[![car](assets/car.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
 
 
 ### [Electronic Store Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/ele.ipynb)
 
-[![elec](assets/elec.jpg)](https://raw.githubusercontent.com/nafreesv/Data-Analytics-Portfolio/main/ele.ipynb)
+[![elec](assets/elec.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/ele.ipynb)
 
 
 
