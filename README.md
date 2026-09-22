@@ -1,4 +1,5 @@
-<img src="assets/Github_cover.png" width="700">
+<p align="center">
+  <img src="assets/Github_cover.png" width="700" alt="Data Analytics Portfolio">
 </p>
 
 <h2 align="left"><strong>About Me</strong></h2>
@@ -24,9 +25,9 @@ I genuinely love diving into large datasets with SQL and Python to transform raw
 
 <br>
 
-<h2 align="center"><strong>🐍 Python Projects</strong></h2>
+## <img src="assets/python.png" width="28" height="28"> **Python Project**
 
-<h3><strong>Building Materials Sales Analysis</strong></h3>
+### **Building Materials Sales Analysis**
 
 <a href="https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/Building_Material_Transactions.ipynb">
   <img src="assets/building_materials.jpg" width="500" alt="Building Materials Sales Analysis">
@@ -34,9 +35,9 @@ I genuinely love diving into large datasets with SQL and Python to transform raw
 
 <br>
 
-<h2 align="center"><strong>🗄️ SQL Projects</strong></h2>
+## <img src="assets/sql.png" width="28" height="28"> **SQL Project**
 
-<h3><strong>Car Sales Analysis</strong></h3>
+### **Car Sales Analysis**
 
 <a href="https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb">
   <img src="assets/car_sales.jpg" width="500" alt="Car Sales Analysis">
