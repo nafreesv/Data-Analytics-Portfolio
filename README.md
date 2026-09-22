@@ -16,7 +16,7 @@
 [![car](assets/car.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
 
 
-### [Construction Materials Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Building_Material_transactions.ipynb)
+### [Construction Materials Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Building_Material_Transactions.ipynb)
 
 [![elec](assets/elec.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/Building_Material_Transactions.ipynb)
 
