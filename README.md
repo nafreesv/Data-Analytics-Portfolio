@@ -10,6 +10,7 @@ I genuinely love diving into large datasets with SQL and Python to transform raw
 <p align="justify" style="font-size: 1.1em;">
 <strong>A huge fan of Python’s Pandas library!<strong>
 </p>
+ 
 <p>
 <strong>Core Languages:<strong> SQL, Python<br>
 <strong>Microsoft Ecosystem:<strong> Fabric, Power BI, DAX, Power Query, Excel
