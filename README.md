@@ -20,16 +20,23 @@ I genuinely love diving into large datasets with SQL and Python to transform raw
 
 **[My Linkedin Profile](https://www.linkedin.com/in/nafrees/)**
 
+<br>
 
-## SQL Projects
+## Python Project
+
+### [Building Materials Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Building_Material_Transactions.ipynb)
+
+[![building_materials](assets/building_materials.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/Building_Material_Transactions.ipynb)
+
+<br>
+
+## SQL Project
+
 ### [Car Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
 
 [![car](assets/car.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
 
 
-### [Construction Materials Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Building_Material_Transactions.ipynb)
-
-[![elec](assets/elec.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/Building_Material_Transactions.ipynb)
 
 
 
