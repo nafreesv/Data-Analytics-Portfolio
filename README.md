@@ -26,7 +26,9 @@ I genuinely love diving into large datasets with SQL and Python to transform raw
 
 ### [Building Materials Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Building_Material_Transactions.ipynb)
 
-[![building_materials](assets/building_materials.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/Building_Material_Transactions.ipynb)
+<a href="https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/Building_Material_Transactions.ipynb">
+  <img src="assets/building_materials.jpg" width="500">
+</a>
 
 <br>
 
@@ -34,10 +36,9 @@ I genuinely love diving into large datasets with SQL and Python to transform raw
 
 ### [Car Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
 
-[![car](assets/car.jpg)](https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
-
-
-
+<a href="https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb">
+  <img src="assets/car.jpg" width="500">
+</a>
 
 
 
