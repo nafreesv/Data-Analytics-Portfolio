@@ -25,7 +25,7 @@ I genuinely love diving into large datasets with SQL and Python to transform raw
 
 <br>
 
-<h2 align="left"><strong><em>Python Project</em></strong></h2>
+<h2 align="left"><strong>Python Project</strong></h2>
 
 ### [Building Materials Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Building_Material_Transactions.ipynb)
 
@@ -35,7 +35,7 @@ I genuinely love diving into large datasets with SQL and Python to transform raw
 
 <br>
 
-<h2 align="left"><strong><em>SQL Project</em></strong></h2>
+<h2 align="left"><strong>SQL Project</strong></h2>
 
 ### [Car Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
 
