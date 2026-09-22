@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Github_cover.png" width="900">
+  <img src="assets/Github_cover.png" width="700">
 </p
 
 <h2 align="left"><strong>About Me</strong></h2>
