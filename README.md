@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Github_cover.png" width="700" alt="Data Analytics Portfolio">
+  <img src="assets/Github_cover.png" width="700">
 </p>
 
 <h2 align="left"><strong>About Me</strong></h2>
@@ -18,31 +18,27 @@ I genuinely love diving into large datasets with SQL and Python to transform raw
 
 <p>
 <strong>Core Languages:</strong> SQL, Python<br>
-<strong>Microsoft Ecosystem:</strong> Microsoft Fabric, Power BI, DAX, Power Query, Excel
+<strong>Microsoft Ecosystem:</strong> Fabric, Power BI, DAX, Power Query, Excel
 </p>
 
 **[My Linkedin Profile](https://www.linkedin.com/in/nafrees/)**
 
 <br>
 
-## <img src="assets/python.png" width="28" height="28"> **Python Project**
+## Python Project
 
-### **Building Materials Sales Analysis**
+### [Building Materials Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/Building_Material_Transactions.ipynb)
 
 <a href="https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/Building_Material_Transactions.ipynb">
-  <img src="assets/building_materials.jpg" width="500" alt="Building Materials Sales Analysis">
+  <img src="assets/building_materials.jpg" width="500">
 </a>
 
 <br>
 
-## <img src="assets/sql.png" width="28" height="28"> **SQL Project**
+## SQL Project
 
-### **Car Sales Analysis**
-
-<a href="https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb">
-  <img src="assets/car_sales.jpg" width="500" alt="Car Sales Analysis">
-</a>
+### [Car Sales Analysis](https://github.com/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb)
 
 <a href="https://nbviewer.org/github/nafreesv/Data-Analytics-Portfolio/blob/main/car_sales.ipynb">
-  <img src="assets/car.jpg" width="500" alt="Car Sales Analysis">
+  <img src="assets/car_sales.jpg" width="500">
 </a>
